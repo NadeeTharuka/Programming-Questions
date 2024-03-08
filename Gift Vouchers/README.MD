@@ -1,6 +1,8 @@
 # Gift Vouchers  
 ## Difficulty: Easy
 
+![Gift Vouchers](https://github.com/NadeeTharuka/Programming-Questions/blob/main/Gift%20Vouchers/gift-vouchers.jpg)
+
 ABC Super Center is a shopping complex located in the Colombo 02 area and sells all its products. They have clothes, bags, cosmetics, shoes, kitchen utensils, etc. During the Christmas season, they have launched a number of promotional programs under which they offer gift vouchers for every item priced Rs. 1000 or higher. 
 
 If the value of that item exceeds Rs. 1000, another voucher will be issued for the next Rs. 1000. For example, if you purchase an item worth Rs. 2,500, two gift vouchers will be issued. 
