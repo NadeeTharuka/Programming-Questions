@@ -43,4 +43,12 @@ Yes
 3
 
 ### Important
-Feel free to use any programming language. (Eg: Java or C++)
+Feel free to use any programming language. (Eg: Java or C++)  
+If the user's input is not correct, you should throw an exception. For those who are unfamiliar with exception handling, just print an Error message.
+
+**Question was taken from BitCode V 3.0**  
+Organized by  
+**BITSA**  
+Department of Information Systems  
+Faculty of Management  
+Rajarata University of Sri Lanka
