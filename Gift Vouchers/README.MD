@@ -23,23 +23,23 @@ The outputs should be answers to the below questions and they must appear in thr
 3) The number of vouchers.
 
 ### Sample Input (1)
-1000
+1000  
 E
 
 ### Sample Output (1)
-Yes
-1000
+Yes  
+1000  
 1
 
 ### Sample Input (2)
-1500
-2000
-200000
+1500  
+2000  
+200000  
 e
 
 ### Sample Output (2)
-Yes
-3500
+Yes  
+3500  
 3
 
 ### Important
