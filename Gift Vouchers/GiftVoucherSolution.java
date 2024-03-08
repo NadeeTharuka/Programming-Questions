@@ -5,6 +5,7 @@ public class GiftVoucherSolution {
         Scanner scanner = new Scanner(System.in);
 
         int total = 0;
+        int voucherCount = 0;
 
         while (true) {
              
@@ -15,19 +16,14 @@ public class GiftVoucherSolution {
             } else {
                 // calculate total
                 if (0 < Integer.valueOf(x) && Integer.valueOf(x) < 100000 ) {
+                    voucherCount = voucherCount + Integer.valueOf(x) / 1000; 
                     total = total + Integer.valueOf(x);
                 }
             }
-
-
-
-
-
-
         }
         
 
         System.out.println(total);
-
+        System.out.println(voucherCount);
     }
 }
