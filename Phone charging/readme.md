@@ -1,6 +1,6 @@
 # Phone charging 
 
-![](https://github.com/NadeeTharuka/Programming-Questions/tree/main/Phone%20charging)
+![](https://github.com/NadeeTharuka/Programming-Questions/tree/main/Phone%20charging/Phone%20charging.png)
 
 Saman hopes to create a simple product that calculates how long it will take to charge the amount of battery available in any phone. This is an app that allows you to find out the current battery capacity percentage of the phone, the number of years the mobile phone has been used and the time it takes to charge the charger after entering it. Create the program needed to complete the software.
 
